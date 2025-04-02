@@ -92,6 +92,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=https-anamika&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150" alt="Animated PFP">
-</p>
+
