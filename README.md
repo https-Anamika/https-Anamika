@@ -4,7 +4,7 @@
   </a>
 </h1>
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Anamika Singh
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  I am Anamika Singh
 </h2>
 <h3 align="center">🚀 Passionate iOS Developer from India</h3>
 
