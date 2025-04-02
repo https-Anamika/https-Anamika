@@ -73,8 +73,9 @@
 
 ### 🏆 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=https-anamika&show_icons=true&locale=en&layout=compact&langs_count=3&hide=javascript&include_swiftui=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=https-anamika&show_icons=true&locale=en&layout=compact&langs_count=4&hide=javascript&include_swiftui=true" alt="Top Languages" />
 </p>
+
 
 ---
 
